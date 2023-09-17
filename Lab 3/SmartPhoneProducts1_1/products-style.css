@@ -23,7 +23,7 @@
     display: flex;
     flex-flow: row wrap;
     justify-content: space-around;
-    background: url("https://tnomuu.github.io/ITM352_repo/Lab3/SmartPhoneProducts1_1/Images/phone_globe.jpg") no-repeat 50% center;
+    background: url("https://tnomuu.github.io/ITM352_repo/Lab2/SmartPhoneProducts1/Images/phone_globe.jpg") no-repeat 50% center;
   }
   
   /* Styling the products */
