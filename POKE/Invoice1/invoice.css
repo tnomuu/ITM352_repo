@@ -1,4 +1,4 @@
-table {
+  table {
     border-collapse: collapse;
     width: 100%;
   }
@@ -9,11 +9,11 @@ table {
   }
   
   th {
-    background-color: #00aeff;
+    background-color: #8458B3;
     color: white;
   }
   
-  tr:nth-child(even) {background-color: #aee5ff}
+  tr:nth-child(even) {background-color: #d0bdf4}
   
   tr:last-child {
       border-bottom: 2px solid black;
