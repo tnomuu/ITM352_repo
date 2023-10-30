@@ -1,0 +1,36 @@
+  table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  table, td {
+    border: 1px solid black;
+  }
+
+  th, td {
+    text-align: left;
+    padding: 8px;
+  }
+  
+  th {
+    background-color: #8458B3;
+    color: white;
+  }
+  
+  tr:nth-child(even) {background-color: #d0bdf4}
+  
+  tr:last-child {
+      border-bottom: 2px solid black;
+  }
+  
+  td:first-child, th:first-child {
+      border-left: 2px solid black;
+  }
+  
+  td:last-child, th:last-child {
+      border-right: 2px solid black;
+  }
+
+  tfoot {
+    font-weight: bold;
+  }
